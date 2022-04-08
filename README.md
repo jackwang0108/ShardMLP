@@ -5,4 +5,4 @@ There is a lot of implementations of Shared MLP. No matter which api (conv1d, co
 
 The simple code here offers both `nn.Conv1D` and `nn.Conv2D` implementations.
 
-Besides, after Shared MLP, Batch Normalization is often applied on the output examples, so the code also offer both `nn.BatchNorm1D` and `nn.BatchNorm2D` implementations of batch normalization.
+Besides, after Shared MLP, Batch Normalization is often applied on the output examples, so the code also offers both `nn.BatchNorm1D` and `nn.BatchNorm2D` implementations of batch normalization.
